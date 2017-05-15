@@ -4,7 +4,7 @@
 
 Here are a number of resources I feel are helpful for people who are interested to start contributing to an Open Source project.
 
-In order to be able to contribute code to an open source project you first have to learn how to code, however there are other ways you could contribute to open source projects that do not necessarily need you to have the skill of coding. Below I have placed several options you could look into no whether you are looking for ways to contribute code or other ways to contribute without needing to code.
+In order to be able to contribute code to an open source project you first have to learn how to code, however there are other ways you could contribute to open source projects that do not necessarily need you to have the skill of coding. Below I have placed several options you could look into whether you are looking for ways to contribute code or other ways to contribute without needing to code.
 
 ## Introductory Reads
 * [Open Source Guides](https://opensource.guide/) - A comprehensive guide created by GitHub.
