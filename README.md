@@ -20,9 +20,9 @@ Here are a few suggestions on approaches you can take:
 * [Code Triage](https://www.codetriage.com/) - Find open source projects on GitHub that need your help.
 
 ## Other Projects (Both Code / Non-coding)
-* [Khan Academy](https://www.khanacademy.org/contribute) - If you enjoy translating/reviewing. You might like to check Khan Academy
+* [Khan Academy](https://www.khanacademy.org/contribute) - If you enjoy translating/reviewing. You might like to check Khan Academy.
 * [What can I do for Mozilla?](http://whatcanidoformozilla.org/) - Mozilla specific way to start contributing in several other ways aside of coding.
-* You can contribute to many other projects, find out an open source project that interest you and research of ways to contribute.
+* You can contribute to many other projects, find an open source project that interests you and research of ways to contribute.
 
 
 If you found this helpful feel free to star it!
