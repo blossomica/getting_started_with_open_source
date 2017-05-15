@@ -9,7 +9,7 @@ In order to be able to contribute code to an open source project you first have 
 ## Introductory Reads
 * [Open Source Guides](https://opensource.guide/) - A comprehensive guide created by GitHub.
 * [OpenHatch Training Missions](https://openhatch.org/missions/) - Tutorials on some of the important tools that are beneficial to know.
-* [Open Source Licenses](http://opensource.org/licenses/) - To understand more about licenses of pen source projects. 
+* [Open Source Licenses](http://opensource.org/licenses/) - To understand more about licenses of open source projects. 
 
 
 ## Finding Projects
