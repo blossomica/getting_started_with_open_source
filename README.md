@@ -25,7 +25,7 @@ Here are a few suggestions on approaches you can take:
 * You can contribute to many other projects, find an open source project that interests you and research of ways to contribute.
 
 
-If you found this helpful feel free to star it!
+If you found this helpful feel free to star :star: it!
 
 ----
 ## License
