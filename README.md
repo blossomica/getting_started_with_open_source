@@ -18,6 +18,7 @@ Here are a few suggestions on approaches you can take:
 * [Up for grabs](http://up-for-grabs.net/#/) - A list of projects which have curated tasks specifically for new contributors.
 * [Your first PR](https://yourfirstpr.github.io/) - A place to find starter issues.
 * [Code Triage](https://www.codetriage.com/) - Find open source projects on GitHub that need your help.
+* [Hacktoberfest](http://hacktoberfest.digitalocean.com/) - Currently happens every October. Support open source and earn a limited edition T-shirt. 
 
 ## Other Projects (Both Code / Non-coding)
 * [Khan Academy](https://www.khanacademy.org/contribute) - If you enjoy translating/reviewing. You might like to check Khan Academy.
