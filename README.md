@@ -12,6 +12,8 @@ In order to be able to contribute code to an open source project you first have 
 * [OpenHatch Training Missions](https://openhatch.org/missions/) - Tutorials on some of the important tools that are beneficial to know.
 * [Open Source Licenses](http://opensource.org/licenses/) - To understand more about licenses of open source projects. 
 
+## Helpful Reference Toolkit
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet) - Common git commands needed for version control.
 
 ## Finding Projects
 Here are a few suggestions on approaches you can take:
