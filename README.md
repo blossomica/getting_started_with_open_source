@@ -18,6 +18,7 @@ In order to be able to contribute code to an open source project you first have 
 ## Finding Projects
 Here are a few suggestions on approaches you can take:
 * [GitHub Explore](https://github.com/explore/) - Search projects based on programming languages to contribute to.
+* [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - A list of beginners-friendly projects.
 * [Up for grabs](http://up-for-grabs.net/#/) - A list of projects which have curated tasks specifically for new contributors.
 * [Your first PR](https://yourfirstpr.github.io/) - A place to find starter issues.
 * [Code Triage](https://www.codetriage.com/) - Find open source projects on GitHub that need your help.
@@ -26,6 +27,7 @@ Here are a few suggestions on approaches you can take:
 ## Other Projects (Both Code / Non-coding)
 * [Khan Academy](https://www.khanacademy.org/contribute) - If you enjoy translating/reviewing. You might like to check Khan Academy.
 * [What can I do for Mozilla?](http://whatcanidoformozilla.org/) - Mozilla specific way to start contributing in several other ways aside of coding.
+* [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - Open Source projects where you can contribute without any programming knowledge.
 * You can contribute to many other projects, find an open source project that interests you and research of ways to contribute.
 
 
