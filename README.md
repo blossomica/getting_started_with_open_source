@@ -25,8 +25,8 @@ Here are a few suggestions on approaches you can take:
 * [Hacktoberfest](http://hacktoberfest.digitalocean.com/) - Currently happens every October. Support open source and earn a limited edition T-shirt. 
 
 ## Other Projects (Both Code / Non-coding)
-* [Khan Academy](https://www.khanacademy.org/contribute) - If you enjoy translating/reviewing. You might like to check Khan Academy.
-* [What can I do for Mozilla?](http://whatcanidoformozilla.org/) - Mozilla specific way to start contributing in several other ways aside of coding.
+* [Khan Academy](https://www.khanacademy.org/contribute) - If you enjoy translating/reviewing. You might like to check Khan Academy. 
+* [What can I do for Mozilla?](http://whatcanidoformozilla.org/) - Mozilla specific way to start contributing in several other ways aside of coding & [Codetribute](https://codetribute.mozilla.org/) - Mozilla specific way to start contributing code.
 * [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - Open Source projects where you can contribute without any programming knowledge.
 * You can contribute to many other projects, find an open source project that interests you and research of ways to contribute.
 
